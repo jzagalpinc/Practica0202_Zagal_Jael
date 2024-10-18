@@ -3,7 +3,7 @@
 # Input de la frase 
 frase = input("Introduce una frase:\n")
 
-# Inverto la frase
+# Invierto la frase
 frase_invertida = frase[::-1]
 
 # Resultado
